@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sanskar Shinde
 - 👀 I’m interested in LLMs, ML, WebDev
-- 🌱 I’m currently learning CSE + EE at VJTI
+- 🌱 I’m currently learning EE at VJTI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @Usha Building
 - 😄 Pronouns: ...
